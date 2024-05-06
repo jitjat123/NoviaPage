@@ -74,4 +74,4 @@ with col2:
     unsafe_allow_html=True,
   )
   if st.button("No Acepto",type="primary"):
-      st.success("Intenta de nuevo 💢")
+      st.error("Intenta de nuevo 💢")
