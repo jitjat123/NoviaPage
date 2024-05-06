@@ -12,8 +12,12 @@ st.title("Hola mi novia 💖")
 st.write("""Quiero decirte que te amo profundamente, y no sabes cuanto extraño estar contigo
             que eres la unicar persona a la que amo y la unica que quiero en mi vida,
             no sabes lo feliz que me haces y lo agradecido que estoy de que seas mi novia,
-            que no hay dia que no piense en ti, y se que el momento de nuestro reencuentro va
-            a ser uno de los momentos mas hermosos de mi vida.""")
+            por que se que eres la mujer para mi hermosa, inteligente y amorosa, no hay dia 
+            que no piense en ti, y se que el momento de nuestro reencuentro va
+            a ser uno de los momentos mas hermosos de mi vida, te amo como no sabia
+            que podia hacerlo, yo se que estos meses han sido duros, pero se 
+            que el momento de volvernos a ver esta a la vuelta de la esquina y para cuando
+            llegue ese momento no te voy a volver a dejar ir. TE AMO 💕""")
 
 st.title("Un recuerdo hermoso 💏")
 video_file = open('novialinda.mp4', 'rb')
